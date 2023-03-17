@@ -6,6 +6,15 @@ Benefiting from the advantages of phase congruency and ratio-based operators, it
 The source code is provided here in matlab.
 
 # Citation
-If you are using SARPC in your project, we kindly ask you to cite:
+If you are using SAR-PC in your project, we kindly ask you to cite:
 
-Y. Xiang, F. Wang and H. You, "OS-SIFT: A Robust SIFT-Like Algorithm for High-Resolution Optical-to-SAR Image Registration in Suburban Areas," in IEEE Transactions on Geoscience and Remote Sensing, vol. 56, no. 6, pp. 3078-3090, June 2018.
+@article{xiang2017sar,
+  title={SAR-PC: Edge detection in SAR images via an advanced phase congruency model},
+  author={Xiang, Yuming and Wang, Feng and Wan, Ling and You, Hongjian},
+  journal={Remote Sensing},
+  volume={9},
+  number={3},
+  pages={209},
+  year={2017},
+  publisher={MDPI}
+}
